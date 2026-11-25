@@ -1,0 +1,5 @@
+{"device":"hill-console","event":"s10","shift":"nite-a","kind":"in","earliest":"2026-11-26T20:00:00+08:00","latest":"2026-11-26T20:00:00+08:00"}
+{"device":"hill-console","event":"s12","shift":"nite-a","kind":"out","earliest":"2026-11-27T00:01:00+08:00","latest":"2026-11-27T00:01:00+08:00"}
+{"device":"rider-terminal","event":"s13","shift":"nite-b","kind":"in","earliest":"2026-11-26T23:59:00+08:00","latest":"2026-11-27T00:02:00+08:00"}
+{"device":"river-console","event":"s13","shift":"nite-c","kind":"in","earliest":"2026-11-27T00:00:00+08:00","latest":"2026-11-27T00:00:00+08:00"}
+{"device":"hill-console","event":"s17","shift":"nite-b","kind":"out","earliest":"2026-11-27T02:00:00+08:00","latest":"2026-11-27T02:00:00+08:00"}

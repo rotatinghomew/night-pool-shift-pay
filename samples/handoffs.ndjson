@@ -1,0 +1,6 @@
+{"parcel":"ns1","move":"a1","kind":"pickup","from":"store-pine","to":"r-a","proof":["store-pine","r-a"],"occurred_at":"2026-11-26T23:48:00+08:00"}
+{"parcel":"ns1","move":"a2","kind":"switch","from":"r-a","to":"r-b","proof":["r-b"],"occurred_at":"2026-11-27T00:02:00+08:00"}
+{"parcel":"ns2","move":"b1","kind":"pickup","from":"store-pine","to":"r-a","proof":["store-pine","r-a"],"occurred_at":"2026-11-26T23:57:00+08:00"}
+{"parcel":"ns1","move":"a2","kind":"switch","from":"r-a","to":"r-b","proof":["r-a"],"occurred_at":"2026-11-27T00:02:00+08:00"}
+{"parcel":"ns1","move":"a3","kind":"delivery","from":"r-b","to":"u-d","proof":["r-b","u-d"],"occurred_at":"2026-11-27T00:15:00+08:00"}
+{"parcel":"ns2","move":"b2","kind":"delivery","from":"r-a","to":"u-e","proof":["r-a","u-e"],"occurred_at":"2026-11-27T00:19:00+08:00"}
